@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
+C:\Users\T470\OneDrive\Desktop\New folder\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb

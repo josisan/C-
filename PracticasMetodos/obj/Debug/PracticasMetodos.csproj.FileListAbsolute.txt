@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\bin\Debug\PracticasMetodos.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\bin\Debug\PracticasMetodos.exe
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\bin\Debug\PracticasMetodos.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\obj\Debug\PracticasMetodos.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\obj\Debug\PracticasMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\obj\Debug\PracticasMetodos.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\obj\Debug\PracticasMetodos.exe
+C:\Users\T470\OneDrive\Desktop\New folder\PracticasMetodos\obj\Debug\PracticasMetodos.pdb

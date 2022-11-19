@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\bin\Debug\EstructuraDeControlDeFlujo.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\bin\Debug\EstructuraDeControlDeFlujo.exe
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\bin\Debug\EstructuraDeControlDeFlujo.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\obj\Debug\EstructuraDeControlDeFlujo.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\obj\Debug\EstructuraDeControlDeFlujo.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\obj\Debug\EstructuraDeControlDeFlujo.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\obj\Debug\EstructuraDeControlDeFlujo.exe
+C:\Users\T470\OneDrive\Desktop\New folder\EstructuraDeControlDeFlujo\EstructuraDeControlDeFlujo\obj\Debug\EstructuraDeControlDeFlujo.pdb
