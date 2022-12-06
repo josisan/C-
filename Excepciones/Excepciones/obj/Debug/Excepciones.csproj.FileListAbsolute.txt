@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\T470\OneDrive\Desktop\New folder\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

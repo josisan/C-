@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\bin\Debug\LanzamientoDeExcepciones.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\bin\Debug\LanzamientoDeExcepciones.exe
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\bin\Debug\LanzamientoDeExcepciones.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\obj\Debug\LanzamientoDeExcepciones.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\obj\Debug\LanzamientoDeExcepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\obj\Debug\LanzamientoDeExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\obj\Debug\LanzamientoDeExcepciones.exe
+C:\Users\T470\OneDrive\Desktop\New folder\LanzamientoDeExcepciones\LanzamientoDeExcepciones\obj\Debug\LanzamientoDeExcepciones.pdb

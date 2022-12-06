@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\bin\Debug\UsoCheked.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\bin\Debug\UsoCheked.exe
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\bin\Debug\UsoCheked.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\obj\Debug\UsoCheked.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\obj\Debug\UsoCheked.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\obj\Debug\UsoCheked.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\obj\Debug\UsoCheked.exe
+C:\Users\T470\OneDrive\Desktop\New folder\UsoCheked\UsoCheked\obj\Debug\UsoCheked.pdb

@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+C:\Users\T470\OneDrive\Desktop\New folder\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

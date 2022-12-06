@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\bin\Debug\EjemplosPOO.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\bin\Debug\EjemplosPOO.exe
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\bin\Debug\EjemplosPOO.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\obj\Debug\EjemplosPOO.exe
+C:\Users\T470\OneDrive\Desktop\New folder\EjemplosPOO\EjemplosPOO\obj\Debug\EjemplosPOO.pdb

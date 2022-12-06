@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\bin\Debug\ejemploFinally.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\bin\Debug\ejemploFinally.exe
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\bin\Debug\ejemploFinally.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.exe
+C:\Users\T470\OneDrive\Desktop\New folder\ejemploFinally\ejemploFinally\obj\Debug\ejemploFinally.pdb

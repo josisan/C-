@@ -1,0 +1,8 @@
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\bin\Debug\CalculoDeEdad.exe.config
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\bin\Debug\CalculoDeEdad.exe
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\bin\Debug\CalculoDeEdad.pdb
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\obj\Debug\CalculoDeEdad.csproj.AssemblyReference.cache
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\obj\Debug\CalculoDeEdad.csproj.SuggestedBindingRedirects.cache
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\obj\Debug\CalculoDeEdad.csproj.CoreCompileInputs.cache
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\obj\Debug\CalculoDeEdad.exe
+C:\Users\T470\OneDrive\Desktop\New folder\CalculoDeEdad\CalculoDeEdad\obj\Debug\CalculoDeEdad.pdb
